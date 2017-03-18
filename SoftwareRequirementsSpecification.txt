@@ -1,0 +1,33 @@
+﻿Software Requirements Specification
+Bad Originals’ Adventure Blog
+1st Edition
+3/17/2017
+Lead Engineers: Renford Alexander & Vinchencia Anderson
+
+
+Vision: Bad Originals’ will be an adventure travel blog. It will generate income from advertisement and sponsorship from other forms of companies.  The website content will be videos, pictures, and description of activities and travels. The videos and pictures will allow users to explore through the author's eyes of each conquest. The author will display content so the viewers can leave feedback through a rating system. The feedback will allow the author to make positive decisions about pictures, videos, and written descriptions. Content will target age groups from 18 and up who wants to explore different adventures from fine dining, light to extreme activities, and travel within the United States or overseas. 
+
+
+Functional Requirements:
+* The web application shall allow users to create an account with an email, name, and phone number.
+* The web application shall produce weekly, monthly, and yearly reports about how many viewers’ view the content on the website.
+* The web application shall be able to produce weekly, monthly and yearly reports about viewers’ feedback ratings.
+* The web application shall display pictures and videos.
+* The web application will display each picture and video: name, date, location, and brief description.
+* The web application will show resources of other website links for air travel, restaurant, hotel, travel insurance, travel accessories,  travel gear, and safety.
+* The web application will allow user to browse from each country. 
+* The web application will allow members to save videos and pictures of the blogger.
+* The web application will have a login link and search box.
+* The web application will allow users to send an email to the blogger. 
+* The web application will allow blogger to send update information to users’ emails about her adventures. 
+
+
+
+
+Non - Functional Requirements:
+* The web application shall be available in several languages.
+* The web application will display mini post of the blogger top 5 or top 10  favorite destinations, restaurants, and activities on their home page. 
+* The web application will display author's’ contact information. 
+* The web application will display author’s best stories. 
+* The web application will display where the users can follower her on other social media accounts.
+* The web application will allow the user to show recent posts.
