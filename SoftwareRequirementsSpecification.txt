@@ -2,13 +2,15 @@
 Bad Originals’ Adventure Blog
 1st Edition
 3/17/2017
-Lead Engineers: Renford Alexander & Vinchencia Anderson
 
 
 Vision: Bad Originals’ will be an adventure travel blog. It will generate income from advertisement and sponsorship from other forms of companies.  The website content will be videos, pictures, and description of activities and travels. The videos and pictures will allow users to explore through the author's eyes of each conquest. The author will display content so the viewers can leave feedback through a rating system. The feedback will allow the author to make positive decisions about pictures, videos, and written descriptions. Content will target age groups from 18 and up who wants to explore different adventures from fine dining, light to extreme activities, and travel within the United States or overseas. 
 
 
 Functional Requirements:
+* The author must be able to easily create posts using ui options.
+* The author must be able to drag and drop images and text boxes on canvas to create posts.
+* The author must be able to resize convas elements includeing text boxes and iamges.
 * The web application shall allow users to create an account with an email, name, and phone number.
 * The web application shall produce weekly, monthly, and yearly reports about how many viewers’ view the content on the website.
 * The web application shall be able to produce weekly, monthly and yearly reports about viewers’ feedback ratings.
